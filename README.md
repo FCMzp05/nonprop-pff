@@ -4,7 +4,7 @@
 
 Manuscript:
 
-> P. Zhang, K. Tang. *A load-order-dependent phase-field model for fatigue crack paths under non-proportional loading*. Submitted to International Journal of Mechanical Sciences.
+> P. Zhang, K. Tang. *A load-order-dependent phase-field model for fatigue crack paths under non-proportional loading*. Submitted to Aerospace Science and Technology.
 
 The model evaluates the load cycle on material planes. On each plane the shear stress increment is accumulated while the plane is open, which gives the signed area enclosed by the traction loop. The plane-wise values form a traceless tensor that changes sign with the traversal direction of the loop and vanishes for proportional and retraced loading. A matrix exponential of this tensor gives the structural tensor of an anisotropic crack-surface energy in the damage equation.
 
